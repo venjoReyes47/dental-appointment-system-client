@@ -11,7 +11,6 @@ export const login = async (email, password) => {
             const cookieOptions = [
                 `path=/`,
                 `max-age=${7 * 24 * 60 * 60}`, // 7 days
-                'secure',
                 'samesite=strict'
             ].join('; ');
             document.cookie = `token=${response.data.data.tokens.accessToken}; ${cookieOptions}`;

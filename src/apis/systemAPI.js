@@ -1,7 +1,6 @@
 import axios from 'axios';
-
 const instance = axios.create({
-    baseURL: `http://192.168.1.9:8080`
+    baseURL: `http://a6af8f64d3b954622b59a3c4846f07ae-267531595.ap-southeast-1.elb.amazonaws.com`
 });
 
 // Helper function to get cookie value by name

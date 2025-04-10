@@ -80,7 +80,7 @@ const Navigation = () => {
                     <div className="d-flex align-items-center">
                         {user ? (
                             <>
-                                <span className="me-3 fw-semibold">
+                                <span className="d-none d-xl-block me-3 fw-semibold">
                                     {user.firstName} {user.lastName}
                                 </span>
                                 <button
