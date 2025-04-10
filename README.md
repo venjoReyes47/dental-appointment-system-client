@@ -24,4 +24,37 @@ A modern web application for managing dental appointments, built with React. Thi
 - React Big Calendar for the scheduling
 - Axios to talk to the backend
 
+### Key Components
+1. **User Management**
+   - Patient registration and authentication
+   - Role-based access control
 
+2. **Appointment System**
+   - Schedule management
+   - Appointment booking
+   - Calendar integration
+
+3. **Dentist Management**
+   - Schedule management
+   - Service assignment
+
+4. **Services Management**
+   - Dental service catalog
+   - Pricing management
+   - Service categorization
+
+
+### Frontend Deployment to AWS S3
+1. Build the React application:
+
+2. Configure AWS S3 bucket:
+   - Enable static website hosting
+   - Set bucket policy for public access
+   - Configure CORS settings
+
+3. Upload build files to S3:
+
+
+### FOR INITIAL TESTING OF SYSTEM (Dentist / Administratior Account)
+Email: dentist@gmail.com
+Password: admin
