@@ -54,6 +54,10 @@ A modern web application for managing dental appointments, built with React. Thi
 
 3. Upload build files to S3:
 
+## For Future Enhancements
+1. Forgot Password
+2. User Details Page (Edit personal details )
+3. Prices of Services
 
 ### FOR INITIAL TESTING OF SYSTEM (Dentist / Administratior Account)
 Email: dentist@gmail.com
