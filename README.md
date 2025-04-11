@@ -59,7 +59,7 @@ A modern web application for managing dental appointments, built with React. Thi
 2. User Details Page (Edit personal details )
 3. Prices of Services
 
-### FOR INITIAL TESTING OF SYSTEM (Dentist / Administratior Account)
+### FOR INITIAL TESTING OF SYSTEM (Dentist / Administrator Account)
 Email: dentist@gmail.com
 Password: admin
 
