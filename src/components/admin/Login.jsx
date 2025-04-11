@@ -89,11 +89,7 @@ const Login = () => {
                                         ) : null}
                                         Sign In
                                     </button>
-                                    <div className="text-center">
-                                        <Link to="/forgot-password" className="text-decoration-none text-muted">
-                                            Forgot password?
-                                        </Link>
-                                    </div>
+
                                 </form>
                                 <hr className="my-4" />
                                 <div className="text-center">
