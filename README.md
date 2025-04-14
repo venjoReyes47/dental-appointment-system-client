@@ -65,3 +65,6 @@ Password: admin
 
 ### FOR THE VIDEO PRESENTATION LINK
 https://drive.google.com/file/d/1y1WP93dQnRe1Ovf3nw9Xlh1TOzYN0gn0/view?usp=sharing
+
+### APPLICATION LINK
+http://dental-frontend.s3-website-ap-southeast-1.amazonaws.com/
